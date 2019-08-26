@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# HTML
 
-You can use the [editor on GitHub](https://github.com/Deepthi1003/intro.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
 
-### Markdown
+![html](https://www.elegantthemes.com/blog/wp-content/uploads/2019/04/000-Basic-HTML-Codes.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. HTML elements are delineated by tags, written using angle brackets. Tags such as < img /> and < input /> directly introduce content into the page. Other tags such as < p > surround and provide information about document text and may include other tags as sub-elements. Browsers do not display the HTML tags, but use them to interpret the content of the page.
 
-```markdown
-Syntax highlighted code block
+HTML can embed programs written in a scripting language such as JavaScript, which affects the behavior and content of web pages. Inclusion of CSS defines the look and layout of content. The World Wide Web Consortium (W3C), former maintainer of the HTML and current maintainer of the CSS standards, has encouraged the use of CSS over explicit presentational HTML since 1997.
 
-# Header 1
-## Header 2
-### Header 3
+![introduction](https://www.phptpoint.com/wp-content/uploads/2014/05/hh2.png)
 
-- Bulleted
-- List
+## POINTS ABOUT HTML:
 
-1. Numbered
-2. List
+* HTML is used to create web pages.
+* HTML used many tags to make a webpage. So it is a tag-based language.
+* The tags of HTML are surrounded by the angular bracket.
+* It can use wide ranges of colors, objects, and layouts.
+* Very useful for beginners in web designing field.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Advantages of HTML:
 
-### Jekyll Themes
+1. The first advantage it is widely used.
+1. Every browser supports HTML language.
+1. Easy to learn and use.
+1. It is by default in every window so you don't need to purchase extra software.
+1. You can integrate HTML with CSS, JavaScript, php etc.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Deepthi1003/intro.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Disadvantages of HTML:
+1. It can create only static and plain pages so if we need dynamic pages then HTML
+   is not useful.
+1. Need to write a lot of code for making a simple webpage.
+1. Security features are not good in HTML.
+1. If we need to write long code for making a webpage then it produces some complexity.
+
+## References:
+* (https://studyreadeducate.blogspot.com/2017/02/what-is-html-advantages-disadvantages.html)
+* (https://en.wikipedia.org/wiki/HTML)
