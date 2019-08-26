@@ -43,3 +43,4 @@ HTML can embed programs written in a scripting language such as JavaScript, whic
 * (https://studyreadeducate.blogspot.com/2017/02/what-is-html-advantages-disadvantages.html)
 * (https://en.wikipedia.org/wiki/HTML)
 * (https://www.phptpoint.com/wp-content/uploads/2014/05/hh2.png)
+* (https://www.elegantthemes.com/blog/wp-content/uploads/2019/04/000-Basic-HTML-Codes.jpg)
